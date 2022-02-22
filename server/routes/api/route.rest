@@ -1,0 +1,6 @@
+PUT http://localhost:3000/api/posts/62139c5e9a5ae40fd9ac4c5
+
+{"text": "Uppdaterat inlägg"}
+
+###
+GET http://localhost:3000/api/posts
